@@ -1,0 +1,8 @@
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.csproj.AssemblyReference.cache
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.Form1.resources
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.Properties.Resources.resources
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.csproj.GenerateResource.cache
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.AssemblyInfoInputs.cache
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.AssemblyInfo.cs
+C:\Users\Muyat\Documents\Updater\Updater\obj\Debug\net6.0-windows\Updater.csproj.CoreCompileInputs.cache
